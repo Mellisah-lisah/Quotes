@@ -12,7 +12,7 @@ export class QuoteComponent implements OnInit {
     new Quote(2,'Great minds discuss ideas; average minds discuss events; small minds discuss people.','Eleanor Roosevelt',new Date(2019,6,9)),
     new Quote(3,'Do one thing every day that scares you','Eleanor Roosevelt',new Date(2022,1,12)),
     new Quote(4,'If you always do what interests you, at least one person is pleased','Katharine Hepburn',new Date(2019,0,18)),
-    new Quote(5,'Solve math homework','Damn Math',new Date(2019,2,14)),
+    new Quote(5,'The difference between winning and losing is most often not quitting','Walt Disney',new Date(2019,2,14)),
     new Quote(6,'Plot my world domination plan','Cause I am an evil overlord',new Date(2030,3,14)),
   ];
   toggleDetails(index: string | number){
